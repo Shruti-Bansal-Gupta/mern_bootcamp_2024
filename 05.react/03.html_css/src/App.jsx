@@ -8,11 +8,14 @@ import ListElements from "./html/ListElements"
 import MediaElements from "./html/MediaElements"
 import TableElements from "./html/TableElements"
 import TextElements from "./html/TextElements"
+import Navbar from "./html/Navbar"
+
 
 function App() {
 
   return (
     <>
+      {/* <Navbar/> */}
       {/* <TextElements/> */}
       {/* <ListElements/> */}
       {/* <TableElements/> */}

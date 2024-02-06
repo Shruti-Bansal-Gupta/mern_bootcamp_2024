@@ -6,12 +6,12 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+Navbar.jsx
 node_modules
 dist
 dist-ssr
 *.local
-
+03.node
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

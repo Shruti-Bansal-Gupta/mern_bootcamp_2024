@@ -55,6 +55,7 @@ const user2 = new UserProfile({
   interests: ["photography", "traveling"],
 });
 
+
 // Add user1 and user2 to the database
 const addUsersToDB = async () => {
   try {
