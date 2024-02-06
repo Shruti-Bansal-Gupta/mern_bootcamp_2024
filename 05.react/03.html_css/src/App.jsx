@@ -15,8 +15,12 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       {/* <Navbar/> */}
       {/* <TextElements/> */}
+=======
+      <TextElements/> 
+>>>>>>> 48627b2f79df5ffa29e2808e039188769147f97a
       {/* <ListElements/> */}
       {/* <TableElements/> */}
       {/* <FormElements/> */}
